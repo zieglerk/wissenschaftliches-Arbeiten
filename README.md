@@ -1,3 +1,3 @@
-# wissenschaftliches-Arbeiten
+# Themensammlung zum wissenschaftliches Arbeiten
 
-Sammlung von Themen, die immer wieder in der Anleitung zum wissenschaftlichen Arbeiten auftauchen.
+Hauptsächlich auf Deutsch; zum selbständigen Aneignen oder Wiederholen

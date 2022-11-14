@@ -1,3 +1,4 @@
 # Themensammlung zum wissenschaftliches Arbeiten
 
-Hauptsächlich auf Deutsch; zum selbständigen Aneignen oder Wiederholen
+- zum selbständigen Aneignen oder Wiederholen
+- hauptsächlich auf Deutsch
